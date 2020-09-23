@@ -1,0 +1,171 @@
+* {
+    /* color: #1e90ff; */
+    /* background-color: #FAF3DD; */
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+
+.header{
+    /* background-color:blue; */
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+}
+
+.images {
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.dora{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.dora:hover img {
+    opacity: 0.5;
+}
+
+.dora:hover {
+    transform: scale(1.15);
+}
+
+.school{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.school:hover img {
+    opacity: 0.5;
+}
+
+.school:hover {
+    transform: scale(1.15);
+}
+
+.car{
+    max-width: 800px;
+    border: dashed;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.car:hover img {
+    opacity: 0.5;
+}
+
+.car:hover {
+    transform: scale(1.15);
+}
+
+.dj{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.dj:hover img {
+    opacity: 0.5;
+}
+
+.dj:hover {
+    transform: scale(1.15);
+}
+
+.uni{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.uni:hover img {
+    opacity: 0.5;
+}
+
+.uni:hover {
+    transform: scale(1.15);
+}
+
+.snake{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.snake:hover img {
+    opacity: 0.5;
+}
+
+.snake:hover {
+    transform: scale(1.15);
+}
+
+.footer{
+    display : flex;
+    justify-content: flex-end;
+}
+
+  h1{
+        text-align: center;
+        margin-left: 30px;
+        color : blue;
+        padding: 25px;
+        border: red
+        
+}
+
+body{
+    background: black;
+    color: whitesmoke;
+}
+
+a:link{
+    color: #3cb371;
+}
+
+a:visited{
+    color: #3cb371;
+}
+
+img{
+    box-shadow: 5px 5px 3px 1px #999
+}
+
+p{
+    text-align: center;
+    color: red
+}
+body{
+    background-image: url("https://img1.picmix.com/output/stamp/normal/4/6/7/6/1186764_4d77a.gif");
+}
+            
+
