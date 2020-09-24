@@ -39,7 +39,7 @@
     transform: scale(1.15);
 }
 
-.school{
+.run{
     max-width: 800px;
     border: dashed;
     margin: 20px;
@@ -49,11 +49,11 @@
 }
 
 
-.school:hover img {
+.run:hover img {
     opacity: 0.5;
 }
 
-.school:hover {
+.run:hover {
     transform: scale(1.15);
 }
 
