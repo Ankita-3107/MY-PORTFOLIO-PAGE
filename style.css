@@ -129,6 +129,63 @@
     transform: scale(1.15);
 }
 
+.draw{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.draw:hover img {
+    opacity: 0.5;
+}
+
+.draw:hover {
+    transform: scale(1.15);
+}
+
+.bird{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.bird:hover img {
+    opacity: 0.5;
+}
+
+.bird:hover {
+    transform: scale(1.15);
+}
+
+.maze{
+    max-width: 800px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color:blue;
+}
+
+
+.maze:hover img {
+    opacity: 0.5;
+}
+
+.maze:hover {
+    transform: scale(1.15);
+}
+
+
+
+
 .footer{
     display : flex;
     justify-content: flex-end;
