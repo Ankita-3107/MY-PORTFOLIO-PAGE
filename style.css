@@ -147,23 +147,7 @@
     transform: scale(1.15);
 }
 
-.bird{
-    max-width: 800px;
-    border: dashed;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 50px;
-    background-color:blue;
-}
 
-
-.bird:hover img {
-    opacity: 0.5;
-}
-
-.bird:hover {
-    transform: scale(1.15);
-}
 
 .maze{
     max-width: 800px;
